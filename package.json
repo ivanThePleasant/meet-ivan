@@ -1,0 +1,16 @@
+{
+  "name": "meet-ivan",
+  "bin": {
+    "meet-ivan": "index.js"
+  },
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A tiny cli application to learn more about ivanThePleasant",
+  "main": "index.js",
+  "author": "ivanThePleasant",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
